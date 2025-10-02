@@ -6,6 +6,7 @@ Os arquivos da pasta 'ArduinoHIDKeyboard by Eward Hage' foram disponibilizados n
 ## Antes de começar
 - Instale a ultima versão disponivel do java
 - Instale o FLIP, disponibilizado em 'ArduinoHIDKeyboard by Eward Hage/FLIP install/'
+- Monte o circuito [dessa maneira](https://github.com/PETCC-UFRN/Teclado-de-Banana-Arduino-UNO/blob/main/Arduino.png).
 ## Como transformar o Arduino UNO em teclado
 
 Com o código já carregado no arduino, siga os seguintes passos:
