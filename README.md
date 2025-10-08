@@ -1,12 +1,18 @@
 # Teclado de Banana Arduino UNO
 
+Um teclado de banana reprogramável, desenvolvido para a Mostra de Profissões 2025 da UFRN, como parte da exposição do curso de Ciência da Computação realizada pelo PET-CC.
+
+# Tutorial de reprodução
+
 Esse [tutorial](https://www.instructables.com/How-to-Make-a-Arduino-HID-Keyboard/) foi utilizado como referência para a execução desse projeto.
 Os arquivos da pasta 'ArduinoHIDKeyboard by Eward Hage' foram disponibilizados nesse tutorial pelo Eward Hage, todos os créditos a ele.
 
 ## Antes de começar
+
 - Instale a ultima versão disponivel do java
 - Instale o FLIP, disponibilizado em 'ArduinoHIDKeyboard by Eward Hage/FLIP install/'
 - Monte o circuito [dessa maneira](https://github.com/PETCC-UFRN/Teclado-de-Banana-Arduino-UNO/blob/main/Arduino.png).
+- 
 ## Como transformar o Arduino UNO em teclado
 
 Com o código já carregado no arduino, siga os seguintes passos:
