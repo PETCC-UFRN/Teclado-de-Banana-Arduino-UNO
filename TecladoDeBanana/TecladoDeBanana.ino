@@ -61,7 +61,7 @@ void loop() {
         Serial.write(buf, 8);
       } else {
         // Soltar tecla
-        releaseKey();
+        soltarTecla();
       }
     }
     
@@ -70,7 +70,7 @@ void loop() {
   }
 }
 
-void releaseKey() {
+void soltarTecla() {
   buf[0] = 0;
   buf[2] = 0;
   Serial.write(buf, 8);
